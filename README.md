@@ -4,7 +4,7 @@ Download devkitPro : https://github.com/devkitPro/installer/releases
 
 And clone the project
 ```
-git clone https://github.com/NetRiceCake/NDS-WebServer-Example
+git clone https://github.com/GGMMGT/NDS-WebServer-Example.git
 ```
 
 And make
